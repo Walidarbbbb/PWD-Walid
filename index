@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Índice de Actividades</title>
+    <link rel="icon" href="icono.png" type="image/png">
+</head>
+<body>
+    <h1>Actividades del curso SMX</h1>
+
+    <p>Aquí puedes acceder a mi primera actividad:</p>
+
+    <ul>
+        
+        <li><a href="mi_horario/horario.html">Actividad 1 - Horario de clases</a></li>
+    </ul>
+
+    <hr>
+
+    <footer>
+        <p>Repositorio de <b>2º SMX</b> - Entrega de actividades</p>
+    </footer>
+</body>
+</html>
