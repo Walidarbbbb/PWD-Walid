@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Índice de Actividades</title>
+    <!-- Icono corregido -->
     <link rel="icon" href="icono.png" type="image/png">
 </head>
 <body>
@@ -11,8 +12,8 @@
     <p>Aquí puedes acceder a mi primera actividad:</p>
 
     <ul>
-        
-        <li><a href="mi_horario/horario.html">Actividad 1 - Horario de clases</a></li>
+    
+        <li><a href="horario.html">Actividad 1 - Horario de clases</a></li>
     </ul>
 
     <hr>
